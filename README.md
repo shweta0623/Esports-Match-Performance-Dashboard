@@ -76,7 +76,20 @@ The dashboard provides actionable insights into **team efficiency, player contri
 
 ---
 
-## How to Run the Project Locally
-   ''' bash 
-    git clone https://github.com/your-username/Esports-Performance-Analytics.git
+1. How to Run the Project Locally
+   ```bash
+    git clone https://github.com/shweta0623/Gaming Dashboard.git
 
+2. Navigate to the project folder
+   ```bash
+   Gaming Dashboard.pbix
+
+---
+
+## Dashboard Image :
+
+
+---
+
+🔗 LinkedIn: http://linkedin.com/in/shweta-kashyap-7629ab36a
+📂 GitHub: https://github.com/shweta0623
