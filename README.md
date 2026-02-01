@@ -86,8 +86,8 @@ The dashboard provides actionable insights into **team efficiency, player contri
 
 ---
 
-## Dashboard Image :
-
+## Dashboard Image : 
+https://github.com/shweta0623/Esports-Match-Performance-Dashboard/blob/main/Screenshot.png
 
 ---
 
