@@ -76,3 +76,7 @@ The dashboard provides actionable insights into **team efficiency, player contri
 
 ---
 
+## How to Run the Project Locally
+   ''' bash 
+    git clone https://github.com/your-username/Esports-Performance-Analytics.git
+
