@@ -86,8 +86,19 @@ The dashboard provides actionable insights into **team efficiency, player contri
 
 ---
 
+## 📁 Project Structure
+     
+    Esports-Match-Performance-Dashboard/
+    ├── Gaming Dashboard.pbix
+    ├── README.md
+    ├── Results Dataset.xlsx
+    ├── Stats Dataset.xlsx
+    └── Screenshot.png
+
+---
+
 ## Dashboard Image : 
-https://github.com/shweta0623/Esports-Match-Performance-Dashboard/blob/main/Screenshot.png
+![](https://github.com/shweta0623/Esports-Match-Performance-Dashboard/blob/main/Screenshot.png)
 
 ---
 
